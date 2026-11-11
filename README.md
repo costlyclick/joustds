@@ -26,6 +26,6 @@ An infinite lives toggle for those newer to the game. This disables high scoring
 
 Swappable color palettes for our hero
 
-I've done about 100 iterations played exclusively on real hardware. I know AI can be obnoxious. I am a Joust enthusiast who has played this many times on real hardware. I am very familiar with how the game should play and feel. If you encounter any issues let me know and I'll take a look.
+I've done about 100 iterations played exclusively on real hardware. I know AI can be obnoxious. I am a Joust enthusiast who has played the game many times on real hardware. I am very familiar with how it should play and feel. If you encounter any issues let me know and I'll take a look.
 
 I also have a GBA port. It runs at mostly full speed with an occasional dip. I may end up refining this as well.
