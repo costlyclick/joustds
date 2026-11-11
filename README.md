@@ -8,6 +8,8 @@ https://github.com/synamaxmusic/joust
 
 The Mame (Joust Green) rom are required to be unzipped in /roms/joust. It will not boot without them. No infringement is intended.
 
+I've done about 100 iterations of this played exclusively on real hardware. I know AI can be obnoxious. I am a Joust enthusiast who has played the game many times on real hardware. I am very familiar with how it should play and feel. If you encounter any issues let me know and I'll take a look.
+
 Features:
 
 Full screen scaling to fit the DS resolution
@@ -27,7 +29,5 @@ An infinite lives toggle for those newer to the game. This disables high scoring
 Rapid-fire flapping to save your mashing finger
 
 Swappable color palettes for our hero
-
-I've done about 100 iterations played exclusively on real hardware. I know AI can be obnoxious. I am a Joust enthusiast who has played the game many times on real hardware. I am very familiar with how it should play and feel. If you encounter any issues let me know and I'll take a look.
 
 <img width="512" height="768" alt="image" src="https://github.com/user-attachments/assets/ad342b31-7c02-46b8-8e31-4ba34de0c891" />
