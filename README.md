@@ -6,7 +6,7 @@ This originally started as an attempt at an emulator. It ran fine but required a
 
 https://github.com/synamaxmusic/joust
 
-The Mame (Joust Green) rom are required to be unzipped in /roms/joust. It will not boot without them. No infringement is intended.
+The Mame (Joust Green) roms are required to be unzipped in /roms/joust. It will not boot without them. No infringement is intended.
 
 I've done about 100 iterations of this played exclusively on real hardware. I know AI can be obnoxious. I am a Joust enthusiast who has played the game many times on real hardware. I am very familiar with how it should play and feel. If you encounter any issues let me know and I'll take a look.
 
@@ -22,7 +22,7 @@ Fun stuff:
 
 Replaceable background images stored in /roms/joust similar to the Xbox 360 port
 
-Muteable public domain chiptune music from the composer Drozerix. These are also replaceable with .mod/.xm files
+Mutable public domain chiptune music from the composer Drozerix. These are also replaceable with .mod/.xm files
 
 An infinite lives toggle for those newer to the game. This disables high scoring
 
