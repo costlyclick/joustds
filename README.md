@@ -11,19 +11,14 @@ The Mame (Joust Green) rom are required to be unzipped in /roms/joust. It will n
 Features:
 
 Full screen scaling to fit the DS resolution
-
 Fonts are reworked for readability as well
-
 High scoring and user preferences saved to SD
 
 Fun stuff:
 
 Replaceable background images stored in /roms/joust similar to the Xbox 360 port
-
 Muteable public domain chiptune music from the composer Drozerix. These are also replaceable with .mod/.xm files
-
 An infinite lives toggle for those newer to the game. This disables high scoring
-
 Swappable color palettes for our hero
 
 I've done about 100 iterations played exclusively on real hardware. I know AI can be obnoxious. I am a Joust enthusiast who has played this many times on real hardware. I am very familiar with how the game should play and feel. If you encounter any issues let me know and I'll take a look.
