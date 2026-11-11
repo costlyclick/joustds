@@ -24,6 +24,8 @@ Muteable public domain chiptune music from the composer Drozerix. These are also
 
 An infinite lives toggle for those newer to the game. This disables high scoring
 
+Rapid-fire flapping to save your mashing finger
+
 Swappable color palettes for our hero
 
 I've done about 100 iterations played exclusively on real hardware. I know AI can be obnoxious. I am a Joust enthusiast who has played the game many times on real hardware. I am very familiar with how it should play and feel. If you encounter any issues let me know and I'll take a look.
